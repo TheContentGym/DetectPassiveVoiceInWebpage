@@ -1,4 +1,7 @@
 # Detect Passive Voice In a (tech-doc) Webpage
+**What is passive voice:** A form or set of forms of a verb in which the subject undergoes the action of the verb (example: they were killed as opposed to the active form he killed them ). 
+**Why avoid passive voice:** Passive sentences tend to be wordier and also more difficult to read than active sentences.
+
 Prerequisites: 
 * You should have python installed, of course, and the following two:
   * beautifulsoup
