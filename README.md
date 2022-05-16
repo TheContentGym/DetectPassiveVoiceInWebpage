@@ -6,7 +6,8 @@ Prerequisites:
 
 
 By specifying URL of a page in this script, you can detect if there are any instances of passive voice in that page.
-To use:
+
+To use the script:
 1. Enter the **url** of the webpage you want to check in the following variable: 
  
  `url = 'https://thecontentgym.wordpress.com/2022/05/09/a-non-engineer-attending-a-marathon-5-full-days-python-training-with-experienced-programmers/'`
