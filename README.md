@@ -1,4 +1,4 @@
-# DetectPassiveVoiceInWebpage
+# Detect Passive Voice In a (tech-doc) Webpage
 Prerequisites: 
 * You should have python installed, of course, and the following two:
   * beautifulsoup
