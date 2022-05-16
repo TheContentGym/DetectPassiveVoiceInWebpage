@@ -1,6 +1,6 @@
 # DetectPassiveVoiceInWebpage
 Prerequisites: 
-* You should have python installed, of course. and the following two:
+* You should have python installed, of course, and the following two:
   * beautifulsoup
   * Spacy
 
