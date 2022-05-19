@@ -1,9 +1,16 @@
 # Detect Passive Voice In a (tech-doc) Webpage
+<<<<<<< Updated upstream
 **What is passive voice:** A form or set of forms of a verb in which the subject undergoes the action of the verb (example: they were killed as opposed to the active form he killed them ). 
 
 **Why avoid passive voice:** Passive sentences tend to be wordier and also more difficult to read than active sentences. Sometimes, they tend to obscure the do-er of the action too. For example: "Mr A did the work" gives the right subject and better information compared to a wordier "The work was done". 
 
 **Prerequisites for using the script:** 
+=======
+What is passive voice: A form or set of forms of a verb in which the subject undergoes the action of the verb (example: they were killed as opposed to the active form he killed them ). 
+Why avoid passive voice: Passive sentences tend to be wordier and also more difficult to read than active sentences.
+
+Prerequisites: 
+>>>>>>> Stashed changes
 * You should have python installed, of course, and the following two:
   * beautifulsoup
   * Spacy

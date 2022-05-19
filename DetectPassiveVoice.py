@@ -7,7 +7,7 @@ nlp = spacy.load("en_core_web_sm")
 url = 'https://thecontentgym.wordpress.com/2022/05/09/a-non-engineer-attending-a-marathon-5-full-days-python-training-with-experienced-programmers/'
 response = requests.get(url)
 soup = BeautifulSoup(response.text,'lxml')
-bd = soup.find_all('body')
+bd = soup.find('body')
 
 doc = nlp(bd.text)
 for token in doc:
