@@ -23,7 +23,7 @@ To use the script:
  
  `url = 'https://thecontentgym.wordpress.com/2022/05/09/a-non-engineer-attending-a-marathon-5-full-days-python-training-with-experienced-programmers/'`
  
-2. Replace `body` with the name of the HTML tag you want to check. The value of *body* checks the whole <body> tag of the specified web page. You can specify smaller elements, such as *P* or *Div* with attributes. And when you do so, replace soup.find with *soup.find_all*.   
+2. Replace `body` with the name of the HTML tag you want to check. The value of *body* checks the whole <body> tag of the specified web page. You can specify smaller elements, such as *P* or *Div* (with or without attribute values). And when you do so, replace soup.find with *soup.find_all*.   
   
   `bd = soup.find('body')`
   
