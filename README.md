@@ -25,7 +25,7 @@ To use the script:
  
 2. Replace `body` with the name of the HTML tag you want to check. The value of body checks the whole body of the specified web page.   
   
-  `bd = soup.find_all('body')`
+  `bd = soup.find('body')`
   
 3. Run the script.   
   
