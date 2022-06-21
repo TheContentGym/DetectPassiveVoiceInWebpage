@@ -1,4 +1,4 @@
-[See a detailed video tutorial for creating this program starting with Python installation]([url](https://thecontentgym.wordpress.com/2022/06/20/detect-passive-voice-in-text/))
+See a detailed video tutorial for creating this program starting with Python installation: https://thecontentgym.wordpress.com/2022/06/20/detect-passive-voice-in-text/
 
 # Detect Passive Voice In a (tech-doc) Webpage
 <<<<<<< Updated upstream
